@@ -9,7 +9,7 @@
   "author": "Abhinum Mandhotra",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "sequelize": "^5.8.7",
     "sqlite": "^3.0.3",
     "sqlite3": "^4.0.8"
